@@ -33,7 +33,7 @@
 static CGFloat kDefaultBarHeight = 140;
 static CGFloat kDefaultBarWidth = 22;
 static CGFloat kDefaultBarMargin = 20;
-static CGFloat kDefaultLabelWidth = 40;
+static CGFloat kDefaultLabelWidth = 80;
 static CGFloat kDefaultLabelHeight = 15;
 
 static CGFloat kDefaultAnimationDuration = 2.0;
